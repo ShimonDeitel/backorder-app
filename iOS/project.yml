@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BackorderSupplyWaitTests
-      - path: BackorderSupplyWait.storekit
     dependencies:
       - target: BackorderSupplyWait
     settings:
